@@ -1,0 +1,43 @@
+.sign-in-body {
+    display: flex;
+    flex-direction: row;
+}
+
+.signin-right-container {
+    width: 40%;
+    height: 100vh;
+    background-color: rgb(17, 0, 255);
+}
+
+#welcome-txt {
+    margin-top: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#create-acc-btn {
+    margin-left: 30%;
+    width: 40%;
+    height: 10%;
+    border: 3px solid white;
+    border-radius: 50px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(17, 0, 255);
+}
+
+.signin-left-container {
+    background-color: rgb(155, 235, 215);
+    width: 60%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#sign-in-txt {
+    display: flex;
+    margin-top: 20%;
+    margin-left: 40%;
+    color: blue
+}
